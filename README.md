@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# CSV File Uploader
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a frontend based application that allows the user to upload a CSV file, and view the file in the browser. The user has the option of uploading via drag and drop, or by browsing their files to upload. 
 
 ## Available Scripts
 
